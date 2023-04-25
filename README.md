@@ -4,7 +4,7 @@ Pipelines can be used to call scripts that are stored in a repo along with a Jen
 
 ## Build Status
 
-http://100.21.199.198/job/fibonacci/badge/icon
+http://100.21.199.198/buildStatus/text?job=fibonacci](http://100.21.199.198/buildStatus/text?job=fibonacci)
 
 ## Pipeline steps for calling scripts
 
